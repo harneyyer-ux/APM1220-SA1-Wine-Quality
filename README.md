@@ -2,7 +2,7 @@
 
 **Course:** APM1220 – Applied Multivariate Data Analysis  
 **Assessment:** Summative Assessment 1  
-**Student:** Harneyyer Clores  
+**Student:** Harneyyer Clores and Maria Abad  
 **Section:** Section 2
 
 ## Project Description

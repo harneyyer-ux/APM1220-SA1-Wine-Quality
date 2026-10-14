@@ -33,5 +33,21 @@ The Python script performs data preparation and exploratory analysis, evaluates 
 
 ## Reproducibility
 
-Run the analysis script in a Python environment with the required packages installed. The script expects the datasets to be located in the `data/` folder and generates results under `output/`.
+Run the analysis from the repository root directory.
+
+**1. Install the required packages**
+
+```bash
+pip install pandas numpy matplotlib seaborn scipy statsmodels pingouin factor_analyzer
+```
+
+**2. Run the analysis**
+
+```bash
+python code/SA1_Wine_Analysis.py
+```
+
+The script reads the red and white wine datasets from the `data/` folder and saves generated figures, statistical tables, and summary results in the `output/` directory.
+
+The script requires Python and the packages listed above to be installed. Some package versions may require compatibility adjustments.
 
